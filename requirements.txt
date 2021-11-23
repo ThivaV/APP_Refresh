@@ -1,5 +1,13 @@
 dash
+dash-core-components
+dash-html-components
+dash-renderer
 pandas
-flask
+python-dateutil
+Flask
+Flask-Compress
 flask_restful
+numpy
+plotly
+gunicorn
 numpy

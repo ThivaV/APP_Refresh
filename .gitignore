@@ -3,3 +3,7 @@
 .idea
 .vscode
 .vscode/settings.json
+venv
+*.pyc
+.env
+.DS_Store
